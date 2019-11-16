@@ -7,6 +7,7 @@
 - [Christian Ford] (https://github.com/Christian-Ford)
 - [Karim jano] (https://github.com/kareemjano)
 - [Matias Kachuk] (https://github.com/Kachuk/)
+- [Al Muntrasir abir](https://github.com/amabirbd)
 - [Ivan Rodriguez] (https://github.com/Ivan-Rdrgz/)
 - [Ivan Gonzalez] (https://github.com/scratchmex/)
 - [David Vinter] (https://github.com/David510V/)
@@ -33,6 +34,7 @@
 - [Lauren Boyd](https://github.com/lboyd93)
 - [Théo Bonnet] (https://github.com/theo42500)
 - [Aditya Mahapatra] (https://github.com/adityamahapatra)
+- [Dawit Tirore] (https://github.com/Tirore96)
 - [Hussein Sakr]
 - [Hung Hilton]
 - [Cory]
@@ -46,6 +48,7 @@
 - [jkobie1] (https://github.com/jkobie)
 - [Andrew Dunkel] (https://github.com/andrewdunkel)
 - [AdeptSlice](https://github.com/AdeptSlice)
+- [VijayaPrakashGullapalli](https://github.com/VijayaPrakashGullapalli)
 - [Bilal Suleman]
 - [Ryan Madlener](https://github.com/ryanmadlener)
 - [Mohammad Shahraz Aslam]
@@ -66,9 +69,10 @@
 - [Elite-Debashis] (https://github.com/Elite-Debashis)
 - [George Purnell](https://github.com/georgewpurnell)
 - Eric Githinji
--[Ananth Vankipuram] (https://github.com/nandology)
+- [Ananth Vankipuram] (https://github.com/nandology)
 - [Stuti Patel](https://github.com/stuti8P)
 - [rupesh] (https://github.com/rupesh8601)
+- [Yash Priyam](https://github.com/yashpriyam)
 - [Amey Kulkarni](https://github.com/ameykulkarni25dec)
 - [Damian S] (https://github.com/Damian1-1)
 - [Arjun RC] (https://github.com/arjunrc143
@@ -3835,6 +3839,7 @@ Stephan Sharpe
 - [Daniel Davies](https://github.com/darrkshade)
 - Carlos
 - [Chandima Ranaweera](https://github.com/chan4lk)
+- [Mina Mamdouh](https://github.com/ReQTeCH)
 - [Smit Gajjar](https://github.com/smitgajjar)
 - [Fred Amartey](https://github.com/FredAmartey)
 - [Andreas Sandskär](https://github.com/passar)
@@ -5701,6 +5706,7 @@ Aman Panjwani
 - [Jaeren Tredway](https://github.com/JaerenTredway)
 - [Samuel F](hhtps://github.com/Sam-F90)
 - [Peter salihu](https://github.com/c-virus)
+- [Amit Levizky](https://github.com/Amitlevizky2)
 - [Faiza Alam](https://github.com/faizaalam)
 - [Peter Karakas](https://github.com/peti2001)
 - [Jamie N](https://github.com/ratesmayapply)
@@ -18768,3 +18774,4 @@ rehan
 - [Andrew Zaytsev](https://github.com/sofly/)
 - [Psalms Kalu] (https://github.com/psalmskalu)
 - [Anjolaoluwa Olubusi](https://github.com/anjolaolubusi)
+- [John Smurk]
